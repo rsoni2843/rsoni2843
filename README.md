@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nipendra Soni</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Nipendra Soni <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"/></h1>
+
 <h3 align="center">I am a passionate Full-Stack Web Developer from Masai School who's always willing to learn and work across technology and domain. I love to explore new technologies and leverage them to solve real-life problems. I'm deep into the Web Development.</h3>
 <img align="right" alt="coding" width="400px" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsoni2843&label=Profile%20views&color=0e75b6&style=flat" alt="rsoni2843" /> </p>
