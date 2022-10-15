@@ -32,8 +32,7 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rsoni2843)  
 
-<p margin-bottom="20px"><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=rsoni2843&show_icons=true&locale=en&layout=compact" alt="rsoni2843" /></p>
-<p><p/>
+<p margin-bottom="20px"><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=rsoni2843&show_icons=true&locale=en&layout=compact" alt="rsoni2843" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rsoni2843&show_icons=true&locale=en" alt="rsoni2843" /></p>
 
