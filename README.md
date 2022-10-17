@@ -8,7 +8,7 @@
 - 👨‍🎓 I am Full-Stack Developer from **[Masai School](https://www.masaischool.com/)** 
 
 - 💬 Ask me about **JavaScript, CSS, React, & DSA etc*
-- 
+
 - 🌱 I’m currently learning **Redux.**
 
 - 📄 Know about my experiences **[(Resume Here)](https://drive.google.com/file/d/1-L34BLuSuGmlDiFZV4QNBgoBK_7kCm8x/view?usp=sharing)**
