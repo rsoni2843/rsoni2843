@@ -18,6 +18,7 @@
 - 📫 How to reach me **rsoni2843@gmail.com**
 
 - ⚡ Fun fact **I am Web_Developer 😅**
+<div>
 
 <hr>
 
@@ -65,10 +66,10 @@
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rsoni2843)   -->
 <!-- <a href="https://github.com/rsoni2843/github-readme-activity-graph"><img alt="rsoni2843 Graph" src="https://activity-graph.herokuapp.com/graph?username=rsoni2843&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
-<p margin-bottom="20px"><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=rsoni2843&show_icons=true&locale=en&layout=compact" alt="rsoni2843" /> </p>
+<p align="left" widht="100%"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=rsoni2843&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rsoni2843" /></p>
+<!-- <div> span</div> -->
 
 <!-- &nbsp; -->
+<p align="left" &nbsp ><img align="center" src="https://github-readme-stats.vercel.app/api?username=rsoni2843&show_icons=true&locale=en&theme=tokyonight" alt="rsoni2843" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rsoni2843&show_icons=true&locale=en" alt="rsoni2843" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rsoni2843&" alt="rsoni2843" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rsoni2843&theme=tokyonight" alt="rsoni2843" /></p>
