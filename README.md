@@ -20,10 +20,19 @@
 - ⚡ Fun fact **I am Web_Developer 😅**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nipendra-soni-31b85017a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nipendra-soni-31b85017a/" height="30" width="40" /></a><a href="rsoni2843@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="https://www.linkedin.com/in/nipendra-soni-31b85017a/" height="30" width="40" /></a>
-  
+<p align="center">
+    <a href="https://www.linkedin.com/in/hemant-aher-197814b7/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/hemant-aher-197814b7/" />
+    </a>
+    <a href="http://rsoni2843.github.io/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="http://h-unique245.github.io/" />
+    </a>
+    <a title="rsoni2843@gmail.com" href="mailto:suryawanshisandip2999@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="a.hemant96@gmail.com" />
+    </a>
 </p>
+
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
  <div  style="display:flex,flex-wrap:wrap, gap:10px">
