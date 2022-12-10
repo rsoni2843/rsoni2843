@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **I am Web_Developer 😅**
 
+<hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/hemant-aher-197814b7/">
@@ -35,7 +37,7 @@
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
- <div  style="display:flex,flex-wrap:wrap, gap:10px">
+ <div align="center" style="display:flex,flex-wrap:wrap, gap:10px">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"  alt="html5" />
   <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"  alt="css3" />
   <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  alt="javascript" />
@@ -58,6 +60,7 @@
    <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"  alt="postman"/>
 
 </div>
+<hr>
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rsoni2843)   -->
 <!-- <a href="https://github.com/rsoni2843/github-readme-activity-graph"><img alt="rsoni2843 Graph" src="https://activity-graph.herokuapp.com/graph?username=rsoni2843&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
