@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **JavaScript, CSS, React, & DSA etc*
 
-- 🌱 I’m currently learning **Redux.**
+- 🌱 I’m currently learning **Next JS, TypeScript**
 
 - 📄 Know about my experiences **[(Resume Here)](https://drive.google.com/file/d/1-L34BLuSuGmlDiFZV4QNBgoBK_7kCm8x/view?usp=sharing)**
 
@@ -25,14 +25,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-    <a href="https://www.linkedin.com/in/hemant-aher-197814b7/">
+    <a href="https://www.linkedin.com/in/nipendra-soni-31b85017a/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/hemant-aher-197814b7/" />
     </a>
     <a href="http://rsoni2843.github.io/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="http://h-unique245.github.io/" />
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://rsoni2843.github.io" />
     </a>
-    <a title="rsoni2843@gmail.com" href="mailto:suryawanshisandip2999@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="a.hemant96@gmail.com" />
+    <a title="rsoni2843@gmail.com" href="mailto:rsoni2843@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rsoni2843@gmail.com" />
     </a>
 </p>
 
