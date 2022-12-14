@@ -65,7 +65,7 @@
 <hr>
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rsoni2843)   -->
-<!-- <a href="https://github.com/rsoni2843/github-readme-activity-graph"><img alt="rsoni2843 Graph" src="https://activity-graph.herokuapp.com/graph?username=rsoni2843&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+<!-- <a href="https://github.com/rsoni2843/github-readme-activity-graph"><img alt="rsoni2843 Graph" src="https://activity-graph.herokuapp.com/graph?username=rsoni2843&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&langs_count=6" /></a> -->
 
 <p align="center" widht="100%"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=rsoni2843&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rsoni2843" /></p>
 <!-- <div> span</div> -->
