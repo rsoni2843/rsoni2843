@@ -76,10 +76,11 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rsoni2843&theme=tokyonight" alt="rsoni2843" /></p>
     
-    <div align="center">
-  <h3>Here's a random developer joke for you XD.</h3>
-  <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" />
+<div align="center">
+  <h3 align="center">Here's a random developer joke for you.</h3>
+  <img align="center" src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" />
 </div>
 <p align="center">
   <code>Refresh the page for a new joke</code>
 </p>
+   
