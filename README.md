@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **JavaScript, CSS, React, & DSA etc*
 
-- 🌱 I’m currently learning **Next JS, TypeScript**
+- 🌱 I’m currently learning **TypeScript, Firebase**
 
 - 📄 Know about my experiences **[(Resume Here)](https://drive.google.com/file/d/1-L34BLuSuGmlDiFZV4QNBgoBK_7kCm8x/view?usp=sharing)**
 
