@@ -6,19 +6,17 @@
 <img align="right" alt="coding" width="400px" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsoni2843&label=Profile%20views&color=0e75b6&style=flat" alt="rsoni2843" /> </p>
 
-- 👨‍🎓 I am Full-Stack Developer from **[Masai School](https://www.masaischool.com/)** 
+- 👨‍🎓 I am Full-Stack Developer in **[Dentalkart](https://www.dentalkart.com)** 
 
-- 💬 Ask me about **JavaScript, CSS, React, & DSA etc*
+- 💬 Ask me about **JavaScript, CSS, React, NestJs, NextJs, NodeJs, MySql & DSA, etc*
 
 - 🌱 I’m currently learning **TypeScript, Firebase**
 
 - 📄 Know about my experiences **[(Resume Here)](https://drive.google.com/file/d/1-L34BLuSuGmlDiFZV4QNBgoBK_7kCm8x/view?usp=sharing)**
 
-- 👨‍💻 All of my projects are available at **[(My Portfolio)](https://rsoni2843.github.io/)**
+- 👨‍💻 All of my projects are available at **[(My Portfolio)](https://rsoni2843.github.io)**
 
 - 📫 How to reach me **rsoni2843@gmail.com**
-
-- ⚡ Fun fact **I am Web_Developer 😅**
 <div>
 
 <hr>
